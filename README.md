@@ -22,11 +22,8 @@ Sou um **Desenvolvedor Backend** com cerca de 1 ano de experiência em projetos 
 - Java
 - JavaScript
 - TypeScript
-
-### Backend
 - Spring Boot
 -.Net
-- Arquitetura REST (DTOs, Services, Controllers, Repositories, Validations)
 
 
 ### Banco de Dados
