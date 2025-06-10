@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou o Lucca Shizuru! 👋
 
-<!--
-**Lucca-shizuru/Lucca-shizuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor Backend** com cerca de 1 ano de experiência em projetos pessoais e acadêmicos. Tenho uma base sólida no desenvolvimento de APIs utilizando **Spring Boot** e **.NET**, com foco em criar soluções robustas, escaláveis e fáceis de manter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Experiência com bancos relacionais, principalmente **PostgreSQL**.
+- Apaixonado por design de APIs seguindo os princípios **SOLID** e **Clean Code** para garantir desacoplamento e qualidade no código.
+- No ecossistema Spring, utilizo tecnologias como **Spring Web**, **Spring JPA** e **Spring Data**.
+- Conhecimento em **React** para construção de interfaces dinâmicas e funcionais.
+- Familiaridade com contêineres e orquestração, aplicando práticas com **Docker** em ambientes de desenvolvimento e testes.
+- Atualmente me aprofundando em **Cloud Computing**, focando em serviços da **AWS** para entregar soluções modernas e integradas.
+- Busco sempre aprimorar minhas habilidades e seguir as melhores práticas de desenvolvimento.
+
+---
+
+## Tecnologias que utilizo
+
+### Linguagens
+- Java
+- JavaScript
+- TypeScript
+
+### Backend
+- Spring Boot
+-.Net
+- Arquitetura REST (DTOs, Services, Controllers, Repositories, Validations)
+
+
+### Banco de Dados
+- PostgreSQL
+- Observação: Em alguns projetos, foco na integração com IA sem uso de banco persistente.
+
+### Frontend
+- React
+- Vite
+- TailwindCSS (estilização)
+- Zustand (gerenciamento de estado)
+- React Hook Form (formulários e validação)
+- Framer Motion (animações)
+- Axios (requisições HTTP)
+- React Router (gerenciamento de rotas)
+
+---
+
+📫 **Vamos conversar?**  
+Sinta-se à vontade para conferir meus projetos e entrar em contato!
+
+---
+
+Obrigado pela visita! 🚀
