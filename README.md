@@ -21,7 +21,6 @@ Sou um **Desenvolvedor Backend** com cerca de 1 ano de experiência em projetos 
 ### Linguagens
 - Java
 - JavaScript
-- TypeScript
 - Spring Boot
 -.Net
 
